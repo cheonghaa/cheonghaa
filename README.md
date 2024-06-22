@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-123456?style=flat-square&logo=C++&logoColor=black)
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=ffffff)
 ![javascript](https://img.shields.io/badge/-javascript-1F305F?style=flat-square&logo=javascript&logoColor=yellow)
-
 ![html](https://img.shields.io/badge/-html-FD5750?style=flatsquare&logo=html&logoColor=magenta)
 ![vue](https://img.shields.io/badge/-vue-3178C6?style=flatsquare&logo=vue&logoColor=white)
-![node.js](https://img.shields.io/badge/-node.js-3178C6?style=flatsquare&logo=node.js&logoColor=green)
-
+![node.js](https://img.shields.io/badge/-node.js-4EAA25?style=flatsquare&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
