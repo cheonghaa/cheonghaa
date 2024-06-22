@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=cheonghaa)](https://github.com/cheonghaa)
 
 
-![C++](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-123456?style=flat-square&logo=C++&logoColor=black)
+![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
