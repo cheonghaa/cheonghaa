@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=cheonghaa)](https://github.com/cheonghaa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 ![C++](https://img.shields.io/badge/-C++-123456?style=flat-square&logo=C++&logoColor=black)
