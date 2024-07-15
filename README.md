@@ -16,12 +16,20 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">✨ DYA 's GITHUB ✨</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheonghaa&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
+<br>
+<a href="https://github.com/cheonghaa/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheonghaa&layout=donut&show_icons=true&theme=dracula&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=36% />
+</a>
+<a href="https://github.com/cheonghaa/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheonghaa&show_icons=true&theme=dracula&hide_border=true&&count_private=true" width=53% />
+</a>
+<p></p>
+<a href="https://github.com/cheonghaa/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheonghaa&theme=dracula&bg_color=20232a" width=90%/>
+</a>
 
 
-
+<br>
 <br>
 
 <h3 align="center">Tech Stack</h3>
