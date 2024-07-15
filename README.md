@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <h3 align="center">✨ DYA 's GITHUB ✨</h3>
 <br>
 <p align="center">
-  <a href="https://github.com/cheonghaa/github-readme-stats">
+<!--   <a href="https://github.com/cheonghaa/github-readme-stats"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheonghaa&layout=donut&show_icons=true&theme=dracula&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width="36%" />
-  </a>
-  <a href="https://github.com/cheonghaa/github-readme-stats">
+<!--   </a>
+  <a href="https://github.com/cheonghaa/github-readme-stats"> -->
     <img src="https://github-readme-stats.vercel.app/api?username=cheonghaa&show_icons=true&theme=dracula&hide_border=true&&count_private=true" width="53%" />
-  </a>
+<!--   </a> -->
 </p>
 <p align="center">
   <a href="https://github.com/cheonghaa/github-readme-activity-graph">
@@ -81,14 +81,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact</h3>
 <div align="center">
-  <a href="https://blog.naver.com/sally7410">
+<!--   <a href="https://blog.naver.com/sally7410"> -->
     <img src="https://img.shields.io/badge/blog-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
-  </a>
-  
-  <a href="mailto:sally7410@naver.com">
+<!--   </a> -->
+<!--   <a href="mailto:sally7410@naver.com"> -->
     <img
       src="https://img.shields.io/badge/sally7410@naver.com-2C2C32?style=for-the-badge&logo=&logoColor=white"/>&nbsp
-  </a>
+<!--   </a> -->
 </div>
 
 
