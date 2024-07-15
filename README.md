@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align = 'center'>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonghaa&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonghaa&layout=compact)
-</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align = 'center'>
