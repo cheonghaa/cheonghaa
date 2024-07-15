@@ -71,18 +71,4 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-<br>
-
-<h3 align="center">📫 Contact</h3>
-<div align="center">
-<!--   <a href="https://blog.naver.com/sally7410"> -->
-    <img src="https://img.shields.io/badge/blog-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
-<!--   </a> -->
-<!--   <a href="mailto:sally7410@naver.com"> -->
-    <img
-      src="https://img.shields.io/badge/sally7410@naver.com-2C2C32?style=for-the-badge&logo=&logoColor=white"/>&nbsp
-<!--   </a> -->
-</div>
-
-
 
