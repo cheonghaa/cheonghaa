@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/python-3300ff?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/c++-3300ff?style=for-the-badge&logo=c++&logoColor=white">
 
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
