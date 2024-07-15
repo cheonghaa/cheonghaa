@@ -72,12 +72,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h3 align = "center">GITHUB<H3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheonghaa&layout=compact" alt="Top Languages" />
-</p>
-
-<br>
 
 <h3 align="center">📫 Contact</h3>
 <div align="center">
